@@ -1,0 +1,4 @@
+5 5
+1 2 N
+LLXMLMLMM
+3 3 E
